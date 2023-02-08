@@ -53,7 +53,6 @@ depremzedelere-yardim.com|Tracking|-
 depremihtiyaci.com|Tracking|13.248.243.5, 76.223.105.230
 depremdayanisma.com|Tracking|45.84.206.176
 xn--depremyardm-8zb.com|Tracking|160.153.138.204
-deprem.io|Tracking|104.19.240.93, 104.19.241.93
 deprem.us|Tracking|77.245.149.40
 deprem-ihbar-haritasi.com|Tracking|35.204.150.5
 depremraporum.com|Tracking|76.223.105.230, 13.248.243.5
@@ -68,9 +67,3 @@ afaddestek.net|Tracking|149.3.170.224
 afadyardimyap.net|Tracking|20.94.224.33
 afadbagislari.net|Tracking|20.94.224.33
 afadestek.net|Tracking|172.67.167.56, 104.21.11.200
-afaddeprembagis.net|Tracking|172.67.137.131, 104.21.78.208
-afad-kahramanmaras.net|Tracking|172.67.156.247, 104.21.89.77
-afadhemenyardim.com|Tracking|104.21.36.34, 172.67.184.89
-https://hataydeprem.com|Tracking|-
-https://afad-kizilay.yardim-yap.net|Tracking|-
-http://afaddestek.net/|Tracking|-
